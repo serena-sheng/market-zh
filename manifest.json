@@ -1,0 +1,9 @@
+{
+  "id": "market-zh",
+  "name": "Market Translator",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Translate the community plugin browser on demand: cards, detail descriptions and READMEs become Chinese, with the English original kept on hover.",
+  "author": "serena-sheng",
+  "isDesktopOnly": true
+}
